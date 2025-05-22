@@ -52,11 +52,14 @@
 
 ## 📂 Projects
 
-| Project Name           | Description                                          | Link                                                                 |
-|-----------------------|------------------------------------------------------|----------------------------------------------------------------------|
-| Dijkstra Map Navigation | Shortest path finder using React and custom algorithms | [GitHub](https://github.com/RaghavendraKotnis0512/dijkstra-map-navigation) |
-| FreshTrack             | Real-time food shelf-life tracking using IoT and ML   | [GitHub](https://github.com/RaghavendraKotnis0512/freshtrack)        |
-| E-commerce App         | Full-stack app with React frontend and Node.js backend | [GitHub](https://github.com/RaghavendraKotnis0512/ecommerce-app)     |
+## 📂 Projects
+
+| Project Name           | Description                                                                                                   | Link                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Dijkstra Algo          | Implemented shortest path algorithm with a React frontend for interactive map navigation                       | [GitHub](https://github.com/RaghavendraKotnis0512/Dijkstra_Algo)     |
+| Electron App           | Developed a desktop application using Electron, integrating web technologies | [GitHub](https://github.com/RaghavendraKotnis0512/electron)          |
+| FreshTrack             | Real-time food (tailored specifically for bananas) shelf-life tracking using IoT devices and Machine Learning to optimize cold storage management | [GitHub](https://github.com/assetlover/FreshTrack)                   |
+| HyperChat              | A sophisticated Google Gemini clone — an AI-powered chatbot platform | [GitHub](https://github.com/RaghavendraKotnis0512/HyperChat)         |
 
 ---
 
